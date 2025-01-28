@@ -25,12 +25,12 @@ The `refactor` folder is for the program you modified to add your own functional
 
 ## Suggested code editors
 
-- Visual Studio Code https://code.visualstudio.com/
-- Zed https://zed.dev/
-- IDX https://idx.google.com
-- Phoenix Code https://phcode.dev/
-- Kate https://kate-editor.org/
-- Sublime Text https://www.sublimetext.com/
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Zed](https://zed.dev/)
+- [IDX](https://idx.google.com)
+- [Phoenix Code](https://phcode.dev/)
+- [Kate](https://kate-editor.org/)
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## Suggested languages
 
