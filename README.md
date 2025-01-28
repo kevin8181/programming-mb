@@ -22,3 +22,19 @@ The `refactor` folder is for the program you modified to add your own functional
 1. This is a template repository. Start by making a copy on Github using the green `Use this template` button.
 2. Create your code and add it to the appropriate folders.
 3. Update the `README.md` file in each folder to describe what your programs do and how to use them.
+
+## Suggested code editors
+
+- Visual Studio Code https://code.visualstudio.com/
+- Zed https://zed.dev/
+- IDX https://idx.google.com
+- Phoenix Code https://phcode.dev/
+- Kate https://kate-editor.org/
+- Sublime Text https://www.sublimetext.com/
+
+## Suggested languages
+
+- JavaScript
+- Python
+- Dart
+- Scratch
