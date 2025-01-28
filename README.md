@@ -1,5 +1,5 @@
 # `programming-mb`
-Template repo for programming merit badge. Based on the 2025 requirements.
+Template repo for programming merit badge. Based on the 2025 requirements. Check the [scouting website](https://www.scouting.org/merit-badges/programming/) for the full list of the latest requirements.
 
 ## About this repo
 You will find 4 folders in this repo:
